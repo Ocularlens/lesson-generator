@@ -1,0 +1,22 @@
+{
+  "name": "lesson-generator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chatgpt": "^5.2.5",
+    "pptxgenjs": "^3.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "prettier": "3.0.1"
+  }
+}
